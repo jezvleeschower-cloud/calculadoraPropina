@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TipSplit</string>
+    <string name="screen_title">Propina y cuenta</string>
+
+    <string name="bill_label">Monto de la cuenta</string>
+    <string name="bill_error">Ingresa un monto válido mayor a 0</string>
+
+    <string name="tip_label">Propina: %1$d%%</string>
+
+    <string name="people_label">Personas</string>
+    <string name="people_decrease">−</string>
+    <string name="people_increase">+</string>
+
+    <string name="rounding_exact">Exacto</string>
+    <string name="rounding_up">Redondear hacia arriba</string>
+
+    <string name="result_hint">Ingresa el monto para ver el cálculo</string>
+    <string name="result_tip">Propina</string>
+    <string name="result_total">Total</string>
+    <string name="result_per_person">Por persona</string>
+    <string name="save">Guardar</string>
+
+    <string name="history_title">Historial</string>
+    <string name="history_empty">Aún no hay cálculos guardados</string>
+    <string name="history_clear">Limpiar</string>
+    <string name="history_item">%1$s c/u · %2$d pers. · %3$d%% propina</string>
+</resources>
